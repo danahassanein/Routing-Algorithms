@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\I Superman\Desktop\TP_Routing_Algorithms"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/I Superman/Desktop/TP_Routing_Algorithms/cmake-build-debug

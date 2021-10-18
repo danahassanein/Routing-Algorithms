@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/I Superman/Desktop/TP_Routing_Algorithms/main.cpp
+iostream
+-
+fstream
+-
+bits/stdc++.h
+-
+
